@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestAdmob</string>
+    <!-- AdMob ad unit IDs -->
+    <!--example: banner_unit_id test of google, replace your_banner_unit_id in value-->
+    <string name="banner_gg_test">ca-app-pub-3940256099942544/6300978111</string>
+
+    <!--example-->
+    <!--<string name="banner_home_footer">ca-app-pub-0664570763252260/3326522424</string>-->
+    <!--<string name="interstitial_full_screen">ca-app-pub-0664570763252260/1769900428</string>-->
+</resources>
